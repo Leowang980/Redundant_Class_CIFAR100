@@ -23,3 +23,51 @@ num_classes=110:
   test_loss:  1.2012 ± 0.0289
   train_acc:  98.14 ± 0.28%
   test_acc:   72.37 ± 0.58%
+
+num_classes=115:
+  train_loss: 0.0794 ± 0.0074
+  test_loss:  1.2396 ± 0.0251
+  train_acc:  98.14 ± 0.23%
+  test_acc:   71.77 ± 0.53%
+
+num_classes=120:
+  train_loss: 0.0785 ± 0.0073
+  test_loss:  1.2342 ± 0.0369
+  train_acc:  98.18 ± 0.22%
+  test_acc:   71.72 ± 0.67%
+
+num_classes=125:
+  train_loss: 0.0795 ± 0.0074
+  test_loss:  1.2232 ± 0.0338
+  train_acc:  98.14 ± 0.22%
+  test_acc:   71.90 ± 0.77%
+
+num_classes=130:
+  train_loss: 0.0790 ± 0.0071
+  test_loss:  1.2383 ± 0.0322
+  train_acc:  98.17 ± 0.23%
+  test_acc:   71.67 ± 0.68%
+
+num_classes=135:
+  train_loss: 0.0794 ± 0.0055
+  test_loss:  1.2272 ± 0.0230
+  train_acc:  98.16 ± 0.16%
+  test_acc:   71.85 ± 0.37%
+
+num_classes=140:
+  train_loss: 0.0814 ± 0.0054
+  test_loss:  1.2322 ± 0.0256
+  train_acc:  98.07 ± 0.18%
+  test_acc:   71.65 ± 0.50%
+
+num_classes=145:
+  train_loss: 0.0812 ± 0.0055
+  test_loss:  1.2451 ± 0.0241
+  train_acc:  98.08 ± 0.16%
+  test_acc:   71.54 ± 0.59%
+
+num_classes=150:
+  train_loss: 0.0819 ± 0.0086
+  test_loss:  1.2466 ± 0.0270
+  train_acc:  98.08 ± 0.27%
+  test_acc:   71.63 ± 0.60%

@@ -94,7 +94,7 @@ def setup_logging(log_path):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--num_classes", type=int, default=100, choices=[100, 101, 105, 110])
+    parser.add_argument("--num_classes", type=int, default=100, choices=[100, 101, 105, 110, 115, 120, 125, 130, 135, 140, 145, 150])
     parser.add_argument("--log_file", type=str, default="train_100.log")
     parser.add_argument("--data_root", type=str, default="./data")
     parser.add_argument("--epochs", type=int, default=200)

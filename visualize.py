@@ -20,7 +20,7 @@ LAST_N = 20
 
 def load_histories():
     histories = {}
-    for n in [100, 101, 105, 110]:
+    for n in [100, 101, 105, 110, 115, 120, 125, 130, 135, 140, 145, 150]:
         p = LOGS_DIR / f"history_{n}.json"
         if p.exists():
             with open(p) as f:

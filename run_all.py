@@ -9,10 +9,14 @@ from pathlib import Path
 
 # Experiment config: num_classes -> log_file
 EXPERIMENTS = [
-    (100, "train_100.log"),
-    (101, "train_101.log"),
-    (105, "train_105.log"),
-    (110, "train_110.log"),
+    (115, "train_115.log"),
+    (120, "train_120.log"),
+    (125, "train_125.log"),
+    (130, "train_130.log"),
+    (135, "train_135.log"),
+    (140, "train_140.log"),
+    (145, "train_145.log"),
+    (150, "train_150.log"),
 ]
 
 SCRIPT_DIR = Path(__file__).resolve().parent
